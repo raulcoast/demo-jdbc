@@ -1,4 +1,4 @@
-package application;
+/*package application;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -25,7 +25,7 @@ public class Program {
 			if (x < 2) {
 				throw new SQLException("Fake erro");
 			}
-			*/
+			
 			int rows2 = st.executeUpdate("UPDATE seller SET BaseSalary = 3090 WHERE DepartmentId = 2");
 			
 			conn.commit();
@@ -47,4 +47,4 @@ public class Program {
 			DB.closeConnection();
 		}
 	}
-}
+}*/
