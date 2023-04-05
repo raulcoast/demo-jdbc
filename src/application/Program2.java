@@ -21,8 +21,8 @@ public class Program2 {
 			System.out.println("1 - Incluir Departamento");
 			System.out.println("2 - Imprimir Departamento");
 			System.out.println("3 - Atualizar Nome do Departamento");
-			System.out.println("4 - Imprimir todo os Departamentos Cadastrado");
-			System.out.println("5 - Excluir tabela pelo Id");
+			System.out.println("4 - Imprimir todos os Departamentos Cadastrado");
+			System.out.println("5 - Excluir Departamento pelo Id");
 			System.out.println("0 - Sair");
 			System.out.print("Escolha uma opção: ");
 			opcao = sc.nextInt();
